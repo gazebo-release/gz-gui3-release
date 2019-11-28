@@ -24,10 +24,10 @@ Build-Depends: cmake,
                libignition-math6-dev,
                libignition-common3-events-dev,
                libignition-plugin-dev,
-               libignition-rendering2-ogre1-dev,
+               libignition-rendering3-ogre1-dev,
                libignition-tools-dev,
-               libignition-transport7-dev,
-               libignition-msgs4-dev
+               libignition-tranport8-dev,
+               libignition-msgs5-dev
 Vcs-Browser: https://github.org/ignition-relase/ign-gui3-release
 Vcs-Hg: https://github.org/ignition-relase/ign-gui3-release
 Homepage: http://ignitionrobotics.org/
@@ -61,11 +61,11 @@ Depends: libtinyxml2-dev,
          libignition-cmake2-dev,
          libignition-math6-dev,
          libignition-common3-events-dev,
-         libignition-transport7-dev,
+         libignition-tranport8-dev,
          libignition-plugin-dev,
-         libignition-rendering2-ogre1-dev,
+         libignition-rendering3-ogre1-dev,
          libignition-tools-dev,
-         libignition-msgs4-dev,
+         libignition-msgs5-dev,
          libignition-gui3 (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
