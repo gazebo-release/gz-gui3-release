@@ -1,3 +1,9 @@
+ignition-gui3 (3.0.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gui3 3.0.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 10 Dec 2019 15:56:06 +0100
+
 ignition-gui3 (3.0.0~pre1-1~bionic) bionic; urgency=medium
 
   * ignition-gui3 3.0.0~pre1-1 release
