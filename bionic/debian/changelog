@@ -2,6 +2,12 @@ ignition-gui3 (3.1.0-1~bionic) bionic; urgency=medium
 
   * ignition-gui3 3.1.0-1 release
 
+ -- Louise Poubel <louise@openrobotics.org>  Sat, 28 Mar 2020 09:28:50 -0700
+
+ignition-gui3 (3.1.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gui3 3.1.0-1 release
+
  -- Louise Poubel <louise@openrobotics.org>  Sat, 28 Mar 2020 09:28:37 -0700
 
 ignition-gui3 (3.0.0-1~bionic) bionic; urgency=medium
