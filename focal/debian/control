@@ -1,0 +1,74 @@
+Source: ignition-gui3
+Standards-Version: 3.9.8
+Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
+Section: science
+Priority: optional
+Build-Depends: cmake,
+               pkg-config,
+               debhelper (>= 9),
+               doxygen,
+               libtinyxml2-dev,
+               libprotoc-dev,
+               libprotobuf-dev,
+               qtbase5-dev,
+               qtdeclarative5-dev,
+               qtquickcontrols2-5-dev,
+               qml-module-qtquick2,
+               qml-module-qtquick-controls,
+               qml-module-qtquick-controls2,
+               qml-module-qtquick-dialogs,
+               qml-module-qtquick-layouts,
+               qml-module-qt-labs-folderlistmodel,
+               qml-module-qt-labs-settings,
+               libignition-cmake2-dev,
+               libignition-math6-dev,
+               libignition-common3-events-dev,
+               libignition-plugin-dev,
+               libignition-rendering3-ogre1-dev,
+               libignition-tools-dev,
+               libignition-transport8-dev,
+               libignition-msgs5-dev
+Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-gui3-release
+Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-gui3-release
+Homepage: http://ignitionrobotics.org/
+
+Package: libignition-gui3
+Architecture: any
+Section: libs
+Pre-Depends: ${misc:Pre-Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Multi-Arch: same
+Description: Ignition Gui classes and functions for robot apps - Shared library
+  Ignition Gui is a component in the ignition framework, a set of libraries
+  designed to rapidly develop robot applications.
+
+Package: libignition-gui3-dev
+Architecture: any
+Section: libdevel
+Depends: libtinyxml2-dev,
+         libprotoc-dev,
+         libprotobuf-dev,
+         qtbase5-dev,
+         qtdeclarative5-dev,
+         qtquickcontrols2-5-dev,
+         qml-module-qtquick2,
+         qml-module-qtquick-controls,
+         qml-module-qtquick-controls2,
+         qml-module-qtquick-dialogs,
+         qml-module-qtquick-layouts,
+         qml-module-qt-labs-folderlistmodel,
+         qml-module-qt-labs-settings,
+         libignition-cmake2-dev,
+         libignition-math6-dev,
+         libignition-common3-events-dev,
+         libignition-transport8-dev,
+         libignition-plugin-dev,
+         libignition-rendering3-ogre1-dev,
+         libignition-tools-dev,
+         libignition-msgs5-dev,
+         libignition-gui3 (= ${binary:Version}),
+         ${misc:Depends}
+Multi-Arch: same
+Description: Ignition Gui classes and functions for robot apps - Development files
+  Ignition Gui is a component in the ignition framework, a set of libraries
+  designed to rapidly develop robot applications.
