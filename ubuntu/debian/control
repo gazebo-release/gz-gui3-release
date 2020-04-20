@@ -26,7 +26,7 @@ Build-Depends: cmake,
                libignition-plugin-dev,
                libignition-rendering3-ogre1-dev,
                libignition-tools-dev,
-               libignition-tranport8-dev,
+               libignition-transport8-dev,
                libignition-msgs5-dev
 Vcs-Browser: https://github.org/ignition-relase/ign-gui3-release
 Vcs-Hg: https://github.org/ignition-relase/ign-gui3-release
@@ -61,7 +61,7 @@ Depends: libtinyxml2-dev,
          libignition-cmake2-dev,
          libignition-math6-dev,
          libignition-common3-events-dev,
-         libignition-tranport8-dev,
+         libignition-transport8-dev,
          libignition-plugin-dev,
          libignition-rendering3-ogre1-dev,
          libignition-tools-dev,
