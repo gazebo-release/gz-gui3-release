@@ -1,3 +1,9 @@
+ignition-gui3 (3.4.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gui3 3.4.0-1 release
+
+ -- John Shepherd <john@openrobotics.org>  Fri, 11 Dec 2020 14:50:52 -0800
+
 ignition-gui3 (3.3.0-1~bionic) bionic; urgency=medium
 
   * ignition-gui3 3.3.0-1 release
