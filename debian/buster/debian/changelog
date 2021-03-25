@@ -1,3 +1,9 @@
+ignition-gui3 (3.5.1-3~buster) buster; urgency=medium
+
+  * ignition-gui3 3.5.1-3 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Thu, 25 Mar 2021 13:20:23 -0700
+
 ignition-gui3 (3.5.1-2~buster) buster; urgency=medium
 
   * ignition-gui3 3.5.1-2 release
