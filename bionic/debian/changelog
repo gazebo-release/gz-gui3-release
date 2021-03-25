@@ -1,3 +1,9 @@
+ignition-gui3 (3.5.1-2~bionic) bionic; urgency=medium
+
+  * ignition-gui3 3.5.1-2 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Thu, 25 Mar 2021 11:55:07 -0700
+
 ignition-gui3 (3.5.1-1~bionic) bionic; urgency=medium
 
   * ignition-gui3 3.5.1-1 release
