@@ -1,3 +1,9 @@
+ignition-gui3 (3.7.0-1~buster) buster; urgency=medium
+
+  * ignition-gui3 3.7.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 14 Jul 2021 20:03:01 -0700
+
 ignition-gui3 (3.6.0-1~buster) buster; urgency=medium
 
   * ignition-gui3 3.6.0-1 release
