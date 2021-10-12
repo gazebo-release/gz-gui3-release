@@ -1,3 +1,9 @@
+ignition-gui3 (3.8.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gui3 3.8.0-1 release
+
+ -- Jenn Nguyen <jenn@openrobotics.org>  Tue, 12 Oct 2021 10:40:14 -0700
+
 ignition-gui3 (3.7.0-1~bionic) bionic; urgency=medium
 
   * ignition-gui3 3.7.0-1 release
