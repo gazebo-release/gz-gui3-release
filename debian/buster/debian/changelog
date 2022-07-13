@@ -1,3 +1,9 @@
+ignition-gui3 (3.10.0-1~buster) buster; urgency=medium
+
+  * ignition-gui3 3.10.0-1 release
+
+ -- Jenn Nguyen <jenn@openrobotics.org>  Wed, 13 Jul 2022 15:14:44 -0700
+
 ignition-gui3 (3.9.0-1~buster) buster; urgency=medium
 
   * ignition-gui3 3.9.0-1 release
