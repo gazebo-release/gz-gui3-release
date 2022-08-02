@@ -1,3 +1,9 @@
+ignition-gui3 (3.11.0-1~focal) focal; urgency=medium
+
+  * ignition-gui3 3.11.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Tue, 02 Aug 2022 10:17:23 -0700
+
 ignition-gui3 (3.10.0-1~focal) focal; urgency=medium
 
   * ignition-gui3 3.10.0-1 release
