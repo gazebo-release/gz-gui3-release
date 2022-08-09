@@ -1,2 +1,5 @@
 usr/lib/*/*.so.*
 usr/lib/*/*/plugins/*
+usr/share/ignition/gui[0-99].yaml
+usr/lib/ruby/ignition/*
+usr/share/gz/*
