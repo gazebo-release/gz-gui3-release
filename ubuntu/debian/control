@@ -28,8 +28,8 @@ Build-Depends: cmake,
                libignition-tools-dev,
                libignition-transport8-dev,
                libignition-msgs5-dev
-Vcs-Browser: https://github.com/ignition-relase/ign-gui3-release
-Vcs-Git: https://github.com/ignition-relase/ign-gui3-release
+Vcs-Browser: https://github.com/gazebosim/gz-gui
+Vcs-Git: https://github.com/gazebosim/gz-gui
 Homepage: http://gazebosim.org/
 
 Package: libignition-gui3
