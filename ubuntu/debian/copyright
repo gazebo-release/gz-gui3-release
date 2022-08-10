@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: ignition_gui
 Upstream-Contact: gazebo-list@gazebosim.org
-Source: https://bitbucket.org/osrf/ignition_gui
+Source: https://github.com/gazebosim/gz-gui
 
 Files: *
 Copyright: 2013 Open Source Robotics Foundation
