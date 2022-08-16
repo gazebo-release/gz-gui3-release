@@ -74,3 +74,19 @@ Multi-Arch: same
 Description: Gazebo Gui classes and functions for robot apps - Development files
   Gazebo Gui is a component in the Gazebo framework, a set of libraries
   designed to rapidly develop robot applications.
+
+Package: libgz-gui3
+Depends: libignition-gui3, ${misc:Depends}
+Architecture: all
+Priority: optional
+Section: oldlibs
+Description: transitional package
+ It's recommended to use the gz packages going forward.
+
+Package: libgz-gui3-dev
+Depends: libignition-gui3-dev, ${misc:Depends}
+Architecture: all
+Priority: optional
+Section: oldlibs
+Description: transitional package
+ It's recommended to use the gz packages going forward.
