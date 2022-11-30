@@ -1,3 +1,9 @@
+ignition-gui3 (3.12.0~pre1-1~bionic) bionic; urgency=medium
+
+  * ignition-gui3 3.12.0~pre1-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Wed, 30 Nov 2022 13:19:43 -0800
+
 ignition-gui3 (3.11.2-1~bionic) bionic; urgency=medium
 
   * ignition-gui3 3.11.2-1 release

@@ -1,5 +1,5 @@
 usr/include/*
 usr/lib/*/*.so
 usr/lib/*/pkgconfig/*.pc
-usr/lib/*/cmake/ignition-gui*/*
-usr/share/ignition/ignition-gui[0-99]/ignition-gui*.tag.xml
+usr/lib/*/cmake/*-gui*/*
+usr/share/*/*-gui[0-99]/*-gui*.tag.xml
