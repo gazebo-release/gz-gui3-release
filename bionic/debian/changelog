@@ -1,3 +1,9 @@
+ignition-gui3 (3.12.1-1~bionic) bionic; urgency=medium
+
+  * ignition-gui3 3.12.1-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 13 Dec 2024 14:08:03 -0600
+
 ignition-gui3 (3.12.0-1~bionic) bionic; urgency=medium
 
   * ignition-gui3 3.12.0-1 release
